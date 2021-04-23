@@ -21,10 +21,10 @@ Upload the code contained in this sketch on to your board
 === Folder structure
 
 ....
- creative_day_2             => Arduino sketch folder
-  ├── creative_day_2.ino    => main Arduino file
-  ├── layout.png            => an image of the layout
-  └── ReadMe.adoc           => this file
+ creative_day_2                      => Arduino sketch folder\
+  ├── creative_day_2.ino          => main Arduino file\
+  ├── layout.png                        => an image of the layout\
+  └── README.MD                   => this file\
 ....
 
 === License
