@@ -1,9 +1,9 @@
 # creative_day_2
-:Author: jmlippincott
-:Email: joshua.m.lippincott@gmail.com
-:Date: 23/04/2021
-:Revision: version 1.1
-:License: Public Domain
+:Author: jmlippincott\
+:Email: joshua.m.lippincott@gmail.com\
+:Date: 23/04/2021\
+:Revision: version 1.1\
+:License: Public Domain\
 
 = Project: 30 Days Lost in Space: Creative Day 2
 
@@ -31,7 +31,7 @@ Upload the code contained in this sketch on to your board
 This project is released under a Public Domain License.
 
 === Contributing
-To contribute to this project please contact joshualippincott https://id.arduino.cc/joshualippincott
+
 
 === BOM
 
@@ -42,7 +42,7 @@ To contribute to this project please contact joshualippincott https://id.arduino
 1	  RGB LED
 1	  White LED
 1	  10kΩ Resistor
-11	220Ω Resistor
+11	 220Ω Resistor
 1	  PHOTOCELL
 1	  DIP SWITCH
 
